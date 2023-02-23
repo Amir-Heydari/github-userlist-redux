@@ -1,0 +1,21 @@
+
+.btn {
+    border: 2px;
+    border-radius: 10px;
+    border-color: brown;
+    background-color: crimson;
+    width: 100px;
+    height: 100px;
+    
+}
+
+ .btn:hover{
+    background-color: red;
+}
+
+
+.text{
+    color: crimson;
+    font-weight: bold;
+    
+}
